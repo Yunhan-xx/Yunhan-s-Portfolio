@@ -1,6 +1,6 @@
 # Yunhan's Portfolio
 
-# [Project1: Optimizing Bank Marketing Strategies through Logistic Regression Analysis] (https://github.com/Yunhan-xx/Optimizing-Bank-Marketing-Strategies-through-Logistic-Regression-Analysis)
+## [Project1: Bank-Marketing-Analysis-EDA-LogisticRegression] (https://github.com/Yunhan-xx/Bank-Marketing-Analysis-EDA-LogisticRegression)
 
 ## **Project Overview**
 This project was completed as part of my Marketing Analytics course. The objective was to analyze marketing data from a Portuguese bank using logistic regression to identify key factors influencing clients' term deposit decisions. The focus of the project was on explanatory analysis to optimize the bank's marketing strategies.
